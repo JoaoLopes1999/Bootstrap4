@@ -1,0 +1,12 @@
+.ml9 {
+  position: relative;
+  font-weight: 200;
+  font-size: 4em;
+  color:white ;
+  margin-top: -80px;
+}
+.ml9 .letter {
+  transform-origin: 50% 100%;
+  display: inline-block;
+  line-height: 1em;
+}
